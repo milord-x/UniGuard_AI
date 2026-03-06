@@ -4,7 +4,7 @@ UniGuard AI is an Academic Early Warning and Advisor Decision Support System des
 
 ## Overview
 
-Universities typically detect academic failure too late — after performance collapse occurs.
+Universities typically detect academic failure too late - after performance collapse occurs.
 
 UniGuard AI provides:
 
